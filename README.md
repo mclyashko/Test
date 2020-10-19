@@ -9,4 +9,4 @@ def example():
 2. Написать в нем что-то
 3. Сделать так, чтоб все поняли
 
-[Ссылка на google](google.com)
+[Ссылка на google](https://www.google.com)
